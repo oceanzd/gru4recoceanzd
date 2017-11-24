@@ -23,7 +23,6 @@ for train_random_order in False; do
 for time_sort in False; do
 for is_training in 1; do
 
-
 #for rnn_size in 200; do
 #for batch_size in 256; do
 #for hidden_act in tanh; do
